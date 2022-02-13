@@ -5,7 +5,7 @@ import ColorContext from "../contexts/ColorContext";
 class Button extends React.Component {
   // Consumer Approach
   renderText(value) {
-    return value === "english" ? "Submit" : "Voorleggen";
+    return value === "english" ? "Submit" : "प्रस्तुत";
   }
   renderButton(color) {
     return (

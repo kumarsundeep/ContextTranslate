@@ -3,7 +3,7 @@ import LanguageContext from "../contexts/LanguageContext";
 
 class Field extends React.Component {
   renderText(value) {
-    return value === "english" ? "Name" : "Naam";
+    return value === "english" ? "Name" : "नाम";
   }
   // Consumer approach
   render() {
