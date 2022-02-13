@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Context Translate
 
 Simple context use without redux to translate languages. Also, this app is converted from Redux to Context.
 
